@@ -1,0 +1,6 @@
+{
+  "name": "VibeNet",
+  "description": "Premium Instagram-style Dark Core Social Network with high-performance real-time features, secure storage, and advanced media sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
